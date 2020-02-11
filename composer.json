@@ -1,0 +1,16 @@
+{
+    "name": "carlodflores/passport-metric",
+    "type": "library",
+    "description": "Passport Metric",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "http://complexus.net/co",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlo Flores",
+            "email": "carlo.flores@complexus.net",
+            "homepage": "http://complexus.net/co",
+            "role": "Developer"
+        }
+    ]
+}
